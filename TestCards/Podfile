@@ -1,0 +1,7 @@
+# platform :ios, '9.0'
+
+target 'TestCards' do
+  use_frameworks!
+  pod 'Marshal', '~> 1.2.7'
+
+end

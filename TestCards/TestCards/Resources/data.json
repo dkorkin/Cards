@@ -1,0 +1,25 @@
+
+{ "cards":
+    [
+        {
+            "title":"Finding Romance",
+            "content": "Travel seems like it should be the ultimate romantic gesture. With a landscape of exhilarating and wonderful experiences ahead of you, and nothing familiar but the person by your side, it should hardly be surprising that travel is something many brand-new couples make plans for Paris, Santorini and other far-flung, romantic destinations. However, it quickly becomes obvious that travel isn’t as love-inducing as most people expect. The tedium, the stress and the thrills are all quite overwhelming, leaving little time or energy for the emotions you need to experience romance, like compassion and yearning. As a result, many new couples end up dissolving during or shortly after their first big trip — which isn’t at all what they wanted. If you want to travel with your new SO but want to ensure that you feel the warm and fuzzies, read this guide to finding romance on your first couple’s trip.",
+            "image":"romance"
+        },
+        {
+            "title":"The Worst Parts of Traveling",
+            "content": "Traveling the world is wonderful. Having the chance to explore the world, meeting new people, diving into new cultures, having the chance to see, hear, taste, and touch new cultures, new traditions, and absorbing all the fresh experiences is an amazing way to spend time and absorb knowledge – but it comes at a price. Traveling the world has its downsides, too, parts travelers don’t like to speak (and think) about – like the ones below.",
+            "image":"worst_part"
+        },
+        {
+            "title":"Best Hotspots",
+            "content": "I was a little familiar with Spain’s Costa del Sol after having read an article about Marbella in a popular travel magazine and to be honest the entire coast sounded a little too popular for my liking. Anyway, there was no putting off the trip as we were in Spain anyway and thought how can you go to Spain and not visit the Costa del Sol? I have to say now that I am glad we did as it was nothing like I had imagined with plenty of fascinating things to see and do away from the beaches. For my base, I picked the unspoilt seaside town of Nerja as it was just 60 minutes by taxi transfer from Malaga airport and had good road connections to all the places I wanted to visit. Plus I had heard that it was also the setting for a couple of feature films so  I figured it must have been chosen for a good reason.",
+            "image":"hotspots"
+        },
+        {
+            "title":"Trip to Buenos Aires",
+            "content": "According to BudgetYourTrip, the average cost of a day in Buenos Aires is around $78. However, using a few clever tips will help you cut it down quite a bit. You can enjoy a trip to this beautiful city even on a shoestring budget, but for that, you’ll need to use some specialized services and plan your trip well in advance so you can get discounts if you want to enjoy some events, like football games. Also, be prepared to walk a lot and learn to navigate the rather complex public transport system of the city.",
+            "image":"buenos"
+        }
+    ]
+}

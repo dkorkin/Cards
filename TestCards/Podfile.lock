@@ -1,0 +1,16 @@
+PODS:
+  - Marshal (1.2.7)
+
+DEPENDENCIES:
+  - Marshal (~> 1.2.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Marshal
+
+SPEC CHECKSUMS:
+  Marshal: ef480864a6af10a63f67be7e55bb5d8fe67a16d9
+
+PODFILE CHECKSUM: 29720c072991d3f720af297c4628d77786b76350
+
+COCOAPODS: 1.5.3
